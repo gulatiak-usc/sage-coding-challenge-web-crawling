@@ -3,7 +3,6 @@ Project SAGE -- MINDS @ ISI, USC
 Programming Assignment for Python Developer Student Worker
 
 Name: Akshay Gulati
-USC ID: 1762848744
 email: gulatiak@usc.edu
 '''
 
